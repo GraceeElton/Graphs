@@ -48,6 +48,8 @@ traversal_path = []
 # okay how i do that is a human first.
 # first we start in room zero
 # then pick a random direction and follow that direction until it ends
+# FUCKKKK UGH
+# im not even close
 
 
 # TRAVERSAL TEST
